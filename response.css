@@ -1,0 +1,30 @@
+@media(max-width:720px){
+   .hero .content_coffee{
+       display: none;
+   }
+   
+   .hero h2{
+       font-size: 28px;
+   }
+   
+   .nav_menu{
+       display: none;
+   }
+   
+   .hero p{
+       font-size: 16px;
+   }
+   
+   .nav_logo{
+       
+   }
+   
+   .about_image{
+       display: none;
+   }
+   
+   .aboutus p{
+       font-size: 16px;
+       text-align: center;
+   }
+}

@@ -1,0 +1,52 @@
+.new_services{
+    background-color:#484848 ;
+}
+
+.new_services_heading{
+    
+}
+
+.new_services_heading h2{
+    color: #fff;
+    font-size: 36px;
+    text-align: center;
+} 
+
+.new_services_heading h2 span{
+    border-bottom: 2px solid #d15611;
+}
+
+.new_services .new_item_list{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 26px;
+    padding-bottom: 100px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    
+    
+}
+
+.new_services .new_item_list .n_items{
+    
+}
+
+.new_services .new_item_list .n_items img{
+    
+}
+
+.new_services .new_item_list .n_items h2{
+    color: #b90008;
+    font-size: 32px;
+    font-weight: bolder;
+   
+}
+
+.new_item_list .n_items h2 span{
+    border-bottom: 2px solid #fff;
+}
+
+.new_services .new_item_list .n_items p{
+    color: #fff;
+}
